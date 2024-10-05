@@ -5,43 +5,46 @@
 ## Hi there 👋
 
 ### Who am I?
-💻 Data Scientist.
 
-📚 Researcher.
+  💻 Data Scientist.
 
-👩‍🎓 Bachelor Statistics 
+  📚 Researcher.
 
-🍾 PHD in Biology (scientific computing) - UFRJ (Brazil)
+  👩‍🎓 Bachelor Statistics 
+  
+  🎲 Computer Science specilization (Machine Learning) - PUC-MG (Brazil)
+  
+  🍾 PhD in Biology (scientific computing) - UFRJ (Brazil)
 
-♾️ Post-Doc in Math (scientific computing) - LNCC (Brazil)
+  ♾️ Post-Doc in Math (scientific computing) - LNCC (Brazil)
 
 
 
 ### Skills 👩‍💻
 
-🔮 Machine Learning
+  🔮 Machine Learning
 
-📈 Statistics
+  📈 Statistics
 
-🐍 Python
+  🐍 Python
 
-⚡ Google Cloud Plataform
+  ⚡ Google Cloud Plataform
 
-🗄 SQL
+  🗄 SQL
 
-📊 Data Visualization
+  📊 Data Visualization
 
 
 ###Languages:
 
-Portuguese (native)
+  Portuguese (native)
 
-🇺🇸 (Advanced)
+  🇺🇸 (Advanced)
 
 
 ### Find me around the world 🌎
 
-Linkedin
+  Linkedin
 
 
 
