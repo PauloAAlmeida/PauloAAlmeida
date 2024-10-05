@@ -6,11 +6,17 @@
 
 ### Who am I?
 💻 Data Scientist.
+
 📚 Researcher.
+
 👩‍🎓 Bachelor Statistics 
-🎓 Master in Biology (biostatics) - UFRJ (Brazil).
-🍾 PHD in Biology (scientific computing) - UFRJ (Brazil) 
+
+🎓 Master in Biology (biostatics) - UFRJ (Brazil)
+
+🍾 PHD in Biology (scientific computing) - UFRJ (Brazil)
+
 ♾️ Post-Doc in Math (scientific computing) - LNCC (Brazil)
+
 
 
 ### Skills 👩‍💻
