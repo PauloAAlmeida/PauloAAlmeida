@@ -6,7 +6,6 @@
 
 ### Who am I?
 💻 Data Scientist.
-
 📚 Researcher.
 👩‍🎓 Bachelor Statistics 
 🎓 Master in Biology (biostatics) - UFRJ (Brazil).
