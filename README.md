@@ -8,11 +8,9 @@
 
   💻 Data Scientist.
 
-  📚 Researcher.
-
   👩‍🎓 Bachelor Statistics 
   
-  🎲 Computer Science specilization (Machine Learning) - PUC-MG (Brazil)
+  🎲 Computer Science specialization (Machine Learning) - PUC-MG (Brazil)
   
   🍾 PhD in Biology (scientific computing) - UFRJ (Brazil)
 
