@@ -14,7 +14,7 @@
   
   🍾 PhD in Biology (scientific computing) - UFRJ (Brazil)
 
-  ♾️ Post-Doc in Math (scientific computing) - LNCC (Brazil)
+  ♾️ Post-Doc in Applied Math (scientific computing) - LNCC (Brazil)
 
 
 
