@@ -31,19 +31,14 @@
   🗄 SQL
 
   📊 Data Visualization
+____________
 
+Visit:
+Cypherpunks repository
 
-###Languages:
+**Cypherpunks Write Code**
 
-  Portuguese (native)
-
-  🇺🇸 (Advanced)
-
-
-### Find me around the world 🌎
-
-  Linkedin
- *Cypherpunks Write Code* 
+____________
 *To go anywhere, you must go halfway first, and then you must go half of the remaining distance, and half of the remaining distance, and so forth to infinity: Thus, motion is impossible. Zeno’s Paradoxes*
 
 <!--
