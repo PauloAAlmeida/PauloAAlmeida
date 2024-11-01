@@ -5,14 +5,19 @@
 ##  Hi there 👋
 
 ### Who am I?
-
-💻 Data Scientist.
-
-
+💻 Data Scientist
 
 ### Skills 👩‍💻
+🔮 Machine Learning
+♾️ Generative AI
+📈 Statistics
+🐍 Python
+💬 Dialog Flow
+📊 Data Visualization
+🗄 SQL
 
-
+### Working on
+⚡ Google Cloud Plataform (Vertex, BigQuery, Cloud Function, Cloud Storage...)
 ____________
 
 Visit:
