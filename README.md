@@ -12,7 +12,7 @@
 ♾️ Generative AI
 📈 Statistics
 🐍 Python
-💬 Dialog Flow
+💬 Quantum Computing
 📊 Data Visualization
 🗄 SQL
 
