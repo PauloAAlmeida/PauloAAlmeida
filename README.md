@@ -5,7 +5,7 @@
 ##  Hi there 👋
 
 ### Who am I?
-💻 Data Scientist
+💻 Data Scientist / IA Engenieering 
 
 ### Skills 👩‍💻
 🔮 Machine Learning
