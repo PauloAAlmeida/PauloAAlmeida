@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/3d97aed1-03b3-4de4-8558-b3b0a399388b)
-# Hi, I'm Paulo Abreu 👋
+# Hi, I'm Paulo Almeida 👋
 
 ### Senior Data Scientist & AI Engineer | GCP Specialist | Statistician
 
