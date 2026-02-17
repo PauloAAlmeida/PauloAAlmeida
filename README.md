@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/3d97aed1-03b3-4de4-8558-b3b0a399388b)
+<img width="3616" height="1184" alt="Image" src="https://github.com/user-attachments/assets/f597b883-0162-4759-8e34-6d430954ea44" />
+
 # Hi, I'm Paulo Almeida 👋
 
 ### Senior Data Scientist & AI Engineer | GCP Specialist | Statistician
