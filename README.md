@@ -4,7 +4,7 @@
 
 ### Senior Data Scientist & AI Engineer | GCP Specialist | Statistician
 
-With a strong foundation in **Mathematics and Statistics**, I specialize in architecting and scaling Artificial Intelligence solutions. I have years of experience deploying robust data pipelines, ML models, and **Gen AI**, mainly on the **Google Cloud Platform**.
+With a strong foundation in **Mathematics and Statistics**, I specialize in architecting and scaling Artificial Intelligence solutions. I have experience deploying robust data pipelines, ML models, and **Gen AI**, mainly on the **Google Cloud Platform**.
 
 Beyond classical AI Engineering, I am a **Quantum Computing Enthusiast** and a proud member of the **Qiskit Advocate** program.
 
