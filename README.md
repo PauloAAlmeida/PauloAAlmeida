@@ -43,10 +43,10 @@ My work combines robust software engineering in innovation projects with academi
 My repositories reflect my continuous journey between applied mathematics and technological application:
 
 * **Scientific Modeling (Post-Doc):** Simulation of dynamic systems and biological modeling using **MATLAB** (repo_Matlab`).
-* **Generative AI & LLMs:** Implementations focused on RAG and model fine-tuning (`Genai`, `GPT`).
-* **Predictive Analytics:** Predictive sales models and corporate scenario analysis (`Prev_ven`).
+* **Generative AI & LLMs:** Implementations focused on RAG and model fine-tuning (loading...:-)).
+* **Predictive Analytics:** Predictive sales models and corporate scenario analysis (loading...:-)).
 * **Quantum Computing:** Personal studies on post Quantum Algorithms and Quantum Computing using the Qiskit framework (`Dojo`, `CS_and_Criptography`).
-* **Foundations:** Regular dives into classical Cryptography and Computer Science Theory.
+* **Foundations:** Regular dives into classical Cryptography and Computer Science Theory (`Dojo`).
 
 ---
 
