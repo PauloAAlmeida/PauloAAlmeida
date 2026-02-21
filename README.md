@@ -45,15 +45,15 @@ My repositories reflect my continuous journey between applied mathematics and te
 * **Scientific Modeling (Post-Doc):** Simulation of dynamic systems and biological modeling using **MATLAB** (repo_Matlab`).
 * **Generative AI & LLMs:** Implementations focused on RAG and model fine-tuning (loading...:-)).
 * **Predictive Analytics:** Predictive sales models and corporate scenario analysis (loading...:-)).
-* **Quantum Computing:** Personal studies on post Quantum Algorithms and Quantum Computing using the Qiskit framework (`Dojo`, `CS_and_Criptography`).
-* **Foundations:** Regular dives into classical Cryptography and Computer Science Theory (`Dojo`).
+* **Quantum Computing:** Personal studies on post Quantum Algorithms and Quantum Computing using the Qiskit framework (`quantum`).
+* **Foundations:** Regular dives into classical Cryptography and Computer Science Theory ( `Dojo`, `CS_and_Criptography`).
 
 ---
 
 ### 🏆 Education & Recognitions
 
 * **Post-Doc:** Applied Mathematics.
-* **PhD:** Computational Biology (Focus on Dynamic Systems).
+* **PhD:** Focus on Computational Biology (Agent-Based Modeling / Game Theory / Dynamical Systems).
 * **Qiskit Advocate:** Active member of the global IBM Quantum developer community.
 
 ### 🤝 Affiliations & Ecosystems
